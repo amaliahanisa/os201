@@ -1,6 +1,6 @@
 ## Welcome to My Pages
 
-This page is used for Operating Systems course.y, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used for Operating Systems course.
 
 ### My Github Account
 
