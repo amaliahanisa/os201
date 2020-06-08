@@ -9,4 +9,4 @@ permalink: /URLs/
 * [OS.VLSM.ORG](https://os.vlsm.org/)
 * [Youtube Playlist](https://os.vlsm.org/playlists/)
 
-* [Kembali ke Halaman Utama](https://kamilakaffah07.github.io/os201/)
+* [Kembali ke Halaman Utama](https://amaliahanisa.github.io/os201/)
