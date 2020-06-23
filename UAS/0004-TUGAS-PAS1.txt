@@ -1,35 +1,35 @@
 Script started on Tue 09 Jun 2020 03:14:27 AM WIB
-amalia.hanisafitri@badak:~/UAS$ PS1="$ "
+]0;amalia.hanisafitri@badak: ~/UASamalia.hanisafitri@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 amaliahanisa
 $ echo $PSTAMP
-TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum                                                                                                                                                             |cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200609-031455-feee-UAS/>
+200609-031455-feee-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
 200609-031502-82b8-UAS/> echo -e $CEKSAYA
-amaliahanisa ZCZCSCRIPTSTART 200605-142030 amaliahanisa
- amaliahanisa amaliahanisa 200605-142202-b0b7-amalia.hanisafitri/ 200605-142202                                                                                                                                                              SEQOK SUMOK b0b7af50
- amaliahanisa amaliahanisa 200605-142210-1db9-amalia.hanisafitri/ 200605-142210                                                                                                                                                              SEQOK SUMOK 1db9ec35
- amaliahanisa amaliahanisa 200605-142222-46c7-amalia.hanisafitri/ 200605-142222                                                                                                                                                              SEQOK SUMOK 46c7a517
- amaliahanisa amaliahanisa 200605-142404-a79c-amalia.hanisafitri/ 200605-142404                                                                                                                                                              SEQOK SUMOK a79ce7d5
- amaliahanisa ZCZCSCRIPTSTOP 200605-142413 SEQOK
+amaliahanisa ZCZCSCRIPTSTART 200605-142030 amaliahanisa 
+ amaliahanisa amaliahanisa 200605-142202-b0b7-amalia.hanisafitri/ 200605-142202 SEQOK SUMOK b0b7af50 
+ amaliahanisa amaliahanisa 200605-142210-1db9-amalia.hanisafitri/ 200605-142210 SEQOK SUMOK 1db9ec35 
+ amaliahanisa amaliahanisa 200605-142222-46c7-amalia.hanisafitri/ 200605-142222 SEQOK SUMOK 46c7a517 
+ amaliahanisa amaliahanisa 200605-142404-a79c-amalia.hanisafitri/ 200605-142404 SEQOK SUMOK a79ce7d5 
+ amaliahanisa ZCZCSCRIPTSTOP 200605-142413 SEQOK 
 
 200609-031509-8bda-UAS/> echo -e $CEKSEBELA1
-amaliahanisa ZCZCSCRIPTSTART 200605-113616 amrisandha
- amaliahanisa amrisandha 200605-113653-119e-UAS/ 200605-113653 SEQOK SUMOK 119e4                                                                                                                                                             f62
- amaliahanisa amrisandha 200605-113701-ce12-UAS/ 200605-113701 SEQOK SUMOK ce12b                                                                                                                                                             275
- amaliahanisa amrisandha 200605-113710-1c96-UAS/ 200605-113710 SEQOK SUMOK 1c962                                                                                                                                                             7f6
- amaliahanisa amrisandha 200605-113720-f25b-UAS/ 200605-113720 SEQOK SUMOK f25be                                                                                                                                                             399
- amaliahanisa ZCZCSCRIPTSTOP 200605-113728 SEQOK
+amaliahanisa ZCZCSCRIPTSTART 200605-113616 amrisandha 
+ amaliahanisa amrisandha 200605-113653-119e-UAS/ 200605-113653 SEQOK SUMOK 119e4f62 
+ amaliahanisa amrisandha 200605-113701-ce12-UAS/ 200605-113701 SEQOK SUMOK ce12b275 
+ amaliahanisa amrisandha 200605-113710-1c96-UAS/ 200605-113710 SEQOK SUMOK 1c9627f6 
+ amaliahanisa amrisandha 200605-113720-f25b-UAS/ 200605-113720 SEQOK SUMOK f25be399 
+ amaliahanisa ZCZCSCRIPTSTOP 200605-113728 SEQOK 
 
 200609-031517-774a-UAS/> echo -e $CEKSEBELA2
-amaliahanisa ZCZCSCRIPTSTART 200605-141907 andhikayusup
- amaliahanisa andhikayusup 200531-141953-f16d-andhika.yusup/ 200605-141953 SEQOK                                                                                                                                                              SUMOK f16dd616
- amaliahanisa andhikayusup 200531-142001-15c3-andhika.yusup/ 200605-142001 SEQOK                                                                                                                                                              SUMOK 15c35e73
- amaliahanisa andhikayusup 200531-142008-9f7f-andhika.yusup/ 200605-142008 SEQOK                                                                                                                                                              SUMOK 9f7f49af
- amaliahanisa andhikayusup 200531-142022-c8f5-andhika.yusup/ 200605-142022 SEQOK                                                                                                                                                              SUMOK c8f5a36f
- amaliahanisa ZCZCSCRIPTSTOP 200605-142030 SEQOK
+amaliahanisa ZCZCSCRIPTSTART 200605-141907 andhikayusup 
+ amaliahanisa andhikayusup 200531-141953-f16d-andhika.yusup/ 200605-141953 SEQOK SUMOK f16dd616 
+ amaliahanisa andhikayusup 200531-142001-15c3-andhika.yusup/ 200605-142001 SEQOK SUMOK 15c35e73 
+ amaliahanisa andhikayusup 200531-142008-9f7f-andhika.yusup/ 200605-142008 SEQOK SUMOK 9f7f49af 
+ amaliahanisa andhikayusup 200531-142022-c8f5-andhika.yusup/ 200605-142022 SEQOK SUMOK c8f5a36f 
+ amaliahanisa ZCZCSCRIPTSTOP 200605-142030 SEQOK 
 
 200609-031523-50f3-UAS/> exit
 exit
